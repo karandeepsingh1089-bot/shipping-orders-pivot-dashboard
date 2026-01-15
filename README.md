@@ -99,5 +99,9 @@ The final dashboard provides a quick overview of the business performance and ma
 
 ---
 
+## Dashboard Preview
+
+![Pivot Dashboard](excel_pivot_dashboard.png)
+
 ## Author
 **Karandeep**
