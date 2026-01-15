@@ -1,4 +1,4 @@
-#Shipping Orders Performance Analysis (Excel Pivot Dashboard)
+# Shipping Orders Performance Analysis (Excel Pivot Dashboard)
 
 This project focuses on analyzing a shipping orders dataset using Microsoft Excel Pivot Tables and Pivot Charts. The objective was to convert raw order data into a structured report and dashboard to identify trends in orders, customer types, shipping modes, priorities, and regional performance.
 
